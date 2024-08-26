@@ -50,13 +50,15 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
-.html
+*.html
+*.idea
+
 
 # Translations
 *.mo
 *.pot
 
-# Django stuff:
+# Django stuff:14Kathmandu
 *.log
 local_settings.py
 db.sqlite3
